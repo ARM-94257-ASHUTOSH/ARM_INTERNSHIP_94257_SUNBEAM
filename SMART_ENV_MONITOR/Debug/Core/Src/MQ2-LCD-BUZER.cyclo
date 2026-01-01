@@ -1,7 +1,0 @@
-../Core/Src/MQ2-LCD-BUZER.c:75:5:main	3
-../Core/Src/MQ2-LCD-BUZER.c:151:6:SystemClock_Config	3
-../Core/Src/MQ2-LCD-BUZER.c:198:13:MX_ADC1_Init	3
-../Core/Src/MQ2-LCD-BUZER.c:250:13:MX_I2C1_Init	2
-../Core/Src/MQ2-LCD-BUZER.c:284:13:MX_USART2_UART_Init	2
-../Core/Src/MQ2-LCD-BUZER.c:317:13:MX_GPIO_Init	1
-../Core/Src/MQ2-LCD-BUZER.c:340:6:Error_Handler	1
